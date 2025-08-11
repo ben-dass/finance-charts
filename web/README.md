@@ -1,4 +1,4 @@
-# `flash-report` Installation
+# `finance-charts` Installation
 
 ## Vite, React
 
